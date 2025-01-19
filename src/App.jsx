@@ -1,5 +1,5 @@
 import React from 'react';
-import UserList from './Userlist.js';
+import UserList from './Userlist.jsx';
 
 const App = () => {
   return (
